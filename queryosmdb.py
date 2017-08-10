@@ -84,7 +84,7 @@ del fermate
 #cerco le linee
 numerolinee = 0
 lineeout = []
-flinee = open("lineeGTT.json")
+#flinee = open("lineeGTT.json")
 
 for linea in lineeElem:
     #Devo prendere le fermate coorrispondenti alle linee

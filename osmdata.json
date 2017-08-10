@@ -4362,13 +4362,6 @@
             "ref": 3429
         },
         {
-            "id": 1262192750,
-            "lat": 45.0666394,
-            "lon": 7.6976601,
-            "name": "Vanchiglia - 603",
-            "ref": 603
-        },
-        {
             "id": 1262192766,
             "lat": 45.0685356,
             "lon": 7.7166226,
@@ -7296,8 +7289,8 @@
         },
         {
             "id": 1262197433,
-            "lat": 45.0536901,
-            "lon": 7.6767233,
+            "lat": 45.0537124,
+            "lon": 7.6766114,
             "name": "Nizza",
             "ref": 626
         },
@@ -9158,8 +9151,8 @@
         },
         {
             "id": 1262200697,
-            "lat": 45.0652303,
-            "lon": 7.7142019,
+            "lat": 45.0652739,
+            "lon": 7.7144111,
             "name": "Toselli",
             "ref": 1571
         },
@@ -9771,13 +9764,6 @@
             "lon": 7.63833,
             "name": "Sanremo",
             "ref": 3430
-        },
-        {
-            "id": 1262202660,
-            "lat": 45.0664811,
-            "lon": 7.6979239,
-            "name": "Vanchiglia",
-            "ref": 636
         },
         {
             "id": 1262202694,
@@ -15871,8 +15857,8 @@
         },
         {
             "id": 1524833855,
-            "lat": 45.0704281,
-            "lon": 7.6640525,
+            "lat": 45.0699697,
+            "lon": 7.6637481,
             "name": "Cavalli",
             "ref": 3416
         },
@@ -16323,6 +16309,13 @@
             "lon": 7.6645323,
             "name": "Beaumont",
             "ref": 3350
+        },
+        {
+            "id": 4806485504,
+            "lat": 45.0701192,
+            "lon": 7.6642284,
+            "name": "Cavalli Est",
+            "ref": 3565
         },
         {
             "id": 938733459,
@@ -17593,8 +17586,8 @@
         },
         {
             "id": 948015761,
-            "lat": 45.0824345,
-            "lon": 7.666164,
+            "lat": 45.0824256,
+            "lon": 7.6661581,
             "name": "Livorno",
             "ref": 191
         },
@@ -17607,8 +17600,8 @@
         },
         {
             "id": 948015819,
-            "lat": 45.0854597,
-            "lon": 7.6570084,
+            "lat": 45.0854604,
+            "lon": 7.6570088,
             "name": "Martinetto Est",
             "ref": 187
         },
@@ -17621,15 +17614,15 @@
         },
         {
             "id": 948015895,
-            "lat": 45.0822741,
-            "lon": 7.6670451,
+            "lat": 45.0822757,
+            "lon": 7.6670461,
             "name": "Livorno",
             "ref": 192
         },
         {
             "id": 948015910,
-            "lat": 45.0838759,
-            "lon": 7.6622199,
+            "lat": 45.0838733,
+            "lon": 7.6622182,
             "name": "Avellino",
             "ref": 190
         },
@@ -17663,15 +17656,15 @@
         },
         {
             "id": 948016105,
-            "lat": 45.0856859,
-            "lon": 7.6567397,
+            "lat": 45.085686,
+            "lon": 7.6567398,
             "name": "Martinetto Est",
             "ref": 188
         },
         {
             "id": 948016123,
-            "lat": 45.0839613,
-            "lon": 7.6615031,
+            "lat": 45.0839681,
+            "lon": 7.6615077,
             "name": "Avellino",
             "ref": 189
         },
@@ -18447,8 +18440,8 @@
         },
         {
             "id": 1230710018,
-            "lat": 45.0538581,
-            "lon": 7.6758661,
+            "lat": 45.0538231,
+            "lon": 7.6760908,
             "name": "Nizza",
             "ref": 613
         },
@@ -18507,13 +18500,6 @@
             "lon": 7.6501607,
             "name": "Sabotino Capolinea",
             "ref": 592
-        },
-        {
-            "id": 1230710288,
-            "lat": 45.054036,
-            "lon": 7.6750211,
-            "name": "Nizza",
-            "ref": 626
         },
         {
             "id": 1230710325,
@@ -19032,6 +19018,13 @@
             "lon": 7.6703753,
             "name": "Statuto Cap",
             "ref": 951
+        },
+        {
+            "id": 4997702728,
+            "lat": 45.0537271,
+            "lon": 7.6766158,
+            "name": "Nizza",
+            "ref": 626
         }
     ],
     "linee": [
@@ -19078,7 +19071,7 @@
         {
             "direction": "Piazza Arbarello",
             "from": "Piazza dalla Chiesa",
-            "lastModified": "2016-12-15T09:18:23Z",
+            "lastModified": "2017-08-08T08:13:18Z",
             "numero": "5",
             "stops": [
                 299,
@@ -19110,7 +19103,7 @@
         {
             "direction": "Piazza dalla Chiesa",
             "from": "Piazza Arbarello",
-            "lastModified": "2016-12-15T09:18:16Z",
+            "lastModified": "2017-08-08T08:13:16Z",
             "numero": "5",
             "stops": [
                 303,
@@ -19251,7 +19244,7 @@
         {
             "direction": "Piazza Arbarello",
             "from": "Piazza dalla Chiesa",
-            "lastModified": "2016-12-15T09:18:18Z",
+            "lastModified": "2017-08-08T08:13:18Z",
             "numero": "5",
             "stops": [
                 347,
@@ -19285,7 +19278,7 @@
         {
             "direction": "Piazza dalla Chiesa",
             "from": "Piazza Arbarello",
-            "lastModified": "2016-12-15T09:18:19Z",
+            "lastModified": "2017-08-08T08:13:17Z",
             "numero": "5",
             "stops": [
                 303,
@@ -19839,7 +19832,7 @@
         {
             "direction": "Piazza Sabotino (Circolare Sinistra)",
             "from": "Piazza Sabotino",
-            "lastModified": "2017-01-13T15:11:58Z",
+            "lastModified": "2017-07-27T15:59:31Z",
             "numero": "16",
             "stops": [
                 620,
@@ -19850,7 +19843,6 @@
                 427,
                 425,
                 625,
-                626,
                 627,
                 628,
                 629,
@@ -20164,7 +20156,7 @@
         {
             "direction": "Piazza XVIII Dicembre - Porta Susa",
             "from": "Via Massari",
-            "lastModified": "2017-03-21T10:15:57Z",
+            "lastModified": "2017-04-09T03:23:34Z",
             "numero": "10N",
             "stops": [
                 350,
@@ -20252,7 +20244,7 @@
         {
             "direction": "Piazzale Caio Mario",
             "from": "Via Massari",
-            "lastModified": "2017-03-21T10:15:57Z",
+            "lastModified": "2017-04-09T03:23:34Z",
             "numero": "10",
             "stops": [
                 350,
@@ -20651,7 +20643,7 @@
         {
             "direction": "Porta Nuova FS",
             "from": "Collegno: Piazza Costituzione",
-            "lastModified": "2017-02-09T23:16:09Z",
+            "lastModified": "2017-07-25T15:05:35Z",
             "numero": "33",
             "stops": [
                 855,
@@ -20683,7 +20675,7 @@
         {
             "direction": "Collegno: Piazza Costituzione",
             "from": "Porta Nuova FS",
-            "lastModified": "2016-10-14T14:01:23Z",
+            "lastModified": "2017-07-25T15:05:34Z",
             "numero": "33",
             "stops": [
                 1415,
@@ -21207,7 +21199,7 @@
         {
             "direction": "Nichelino: Piazza Barile",
             "from": "Piazza Solferino",
-            "lastModified": "2016-02-28T11:22:07Z",
+            "lastModified": "2017-05-30T20:51:21Z",
             "numero": "14",
             "stops": [
                 2069,
@@ -21241,7 +21233,7 @@
         {
             "direction": "Piazza Solferino",
             "from": "Nichelino: Piazza Barile",
-            "lastModified": "2016-02-28T11:22:06Z",
+            "lastModified": "2017-08-09T17:05:18Z",
             "numero": "14",
             "stops": [
                 1292,
@@ -21278,7 +21270,7 @@
         {
             "direction": "Via Negarville",
             "from": "Piazza Solferino",
-            "lastModified": "2016-02-28T11:22:10Z",
+            "lastModified": "2017-04-18T19:16:25Z",
             "numero": "63",
             "stops": [
                 3418,
@@ -21328,7 +21320,7 @@
         {
             "direction": "Piazza Solferino",
             "from": "Via Negarville",
-            "lastModified": "2016-02-28T11:22:15Z",
+            "lastModified": "2017-08-09T17:05:19Z",
             "numero": "63",
             "stops": [
                 1158,
@@ -21506,7 +21498,7 @@
         },
         {
             "direction": "GOZZANO CAPOLINEA",
-            "lastModified": "2017-02-12T15:53:06Z",
+            "lastModified": "2017-08-09T13:52:52Z",
             "numero": "30",
             "stops": [
                 2902,
@@ -21529,7 +21521,7 @@
         },
         {
             "direction": "SAN MAURIZIO CAPOLINEA",
-            "lastModified": "2017-02-12T15:53:07Z",
+            "lastModified": "2017-08-09T13:52:52Z",
             "numero": "30",
             "stops": [
                 2582,
@@ -21555,7 +21547,7 @@
         {
             "direction": "Via Servais",
             "from": "Moncalieri Stazione FS",
-            "lastModified": "2016-11-12T21:27:11Z",
+            "lastModified": "2017-08-06T18:03:23Z",
             "numero": "40",
             "stops": [
                 2496,
@@ -21606,7 +21598,7 @@
         {
             "direction": "Moncalieri Stazione FS",
             "from": "Via Servais",
-            "lastModified": "2016-11-12T21:30:52Z",
+            "lastModified": "2017-08-06T18:03:24Z",
             "numero": "40",
             "stops": [
                 1982,
@@ -21867,7 +21859,7 @@
         {
             "direction": "Circolare SX: Torino Stura FS",
             "from": "Torino Stura FS",
-            "lastModified": "2016-04-28T08:45:18Z",
+            "lastModified": "2017-04-16T05:49:51Z",
             "numero": "SE2",
             "stops": [
                 1364,
@@ -21923,7 +21915,7 @@
         {
             "direction": "Circolare DX: Torino Stura FS",
             "from": "Torino Stura FS",
-            "lastModified": "2017-02-22T17:33:56Z",
+            "lastModified": "2017-04-16T05:49:51Z",
             "numero": "SE1",
             "stops": [
                 1364,
@@ -22045,7 +22037,7 @@
         {
             "direction": "Allamano",
             "from": "Piazzale Marco Aurelio",
-            "lastModified": "2017-02-22T17:56:38Z",
+            "lastModified": "2017-08-09T17:05:19Z",
             "numero": "66",
             "stops": [
                 2014,
@@ -22152,7 +22144,7 @@
         {
             "direction": "Piazzale Caio Mario",
             "from": "Moncalieri - Piazza Baden Baden",
-            "lastModified": "2017-01-28T21:38:47Z",
+            "lastModified": "2017-06-01T18:59:48Z",
             "numero": "39",
             "stops": [
                 1100,
@@ -22230,7 +22222,7 @@
         {
             "direction": "Via Italia (Borgaro)",
             "from": "Via Stampini",
-            "lastModified": "2017-02-03T19:55:36Z",
+            "lastModified": "2017-06-01T18:32:41Z",
             "numero": "69",
             "stops": [
                 2600,
@@ -22512,7 +22504,7 @@
         {
             "direction": "Moncalieri - Piazza Baden Baden",
             "from": "Piazzale Caio Mario",
-            "lastModified": "2017-01-28T21:38:48Z",
+            "lastModified": "2017-06-01T18:59:49Z",
             "numero": "39",
             "stops": [
                 1119,
@@ -22562,7 +22554,7 @@
         {
             "direction": "Porta Susa FS",
             "from": "Lein\u00ec: Piazza I Maggio",
-            "lastModified": "2017-03-17T01:56:26Z",
+            "lastModified": "2017-04-09T03:23:34Z",
             "numero": "46",
             "stops": [
                 2837,
@@ -22638,7 +22630,7 @@
         {
             "direction": "Via Scialoja",
             "from": "Piazzale Adua",
-            "lastModified": "2017-03-17T01:56:31Z",
+            "lastModified": "2017-06-09T16:30:44Z",
             "numero": "52",
             "stops": [
                 1954,
@@ -22700,7 +22692,7 @@
         {
             "direction": "Settimo Torinese - Cimitero",
             "from": "Porta Susa FS",
-            "lastModified": "2017-03-17T01:56:29Z",
+            "lastModified": "2017-04-09T02:13:58Z",
             "numero": "49",
             "stops": [
                 1297,
@@ -22769,7 +22761,7 @@
         {
             "direction": "Stazione Porta Susa FS",
             "from": "Settimo Torinese - Cimitero",
-            "lastModified": "2017-03-17T01:56:27Z",
+            "lastModified": "2017-04-09T03:23:35Z",
             "numero": "49",
             "stops": [
                 431,
@@ -22807,7 +22799,7 @@
         {
             "direction": "Stazione Porta Susa FS",
             "from": "Torino Stura FS",
-            "lastModified": "2016-04-28T08:45:14Z",
+            "lastModified": "2017-04-09T02:01:35Z",
             "numero": "51",
             "stops": [
                 1362,
@@ -23411,7 +23403,7 @@
         {
             "direction": "Piazza Vittorio Veneto",
             "from": "Piazza Massaua",
-            "lastModified": "2016-04-17T18:21:31Z",
+            "lastModified": "2017-03-30T08:23:36Z",
             "numero": "1a",
             "stops": [
                 3324,
@@ -23438,7 +23430,7 @@
         {
             "direction": "Largo Tabacchi",
             "from": "Grugliasco - Corso Tirreno",
-            "lastModified": "2017-02-22T18:00:45Z",
+            "lastModified": "2017-05-01T20:30:19Z",
             "numero": "56",
             "stops": [
                 705,
@@ -23540,7 +23532,7 @@
         {
             "direction": "Grugliasco - Via Don Borio",
             "from": "Vanchiglia - Corso Farini",
-            "lastModified": "2016-06-13T07:38:22Z",
+            "lastModified": "2017-04-20T20:31:46Z",
             "numero": "55",
             "stops": [
                 1540,
@@ -23593,7 +23585,7 @@
         {
             "direction": "Grugliasco - C.so Tirreno",
             "from": "Largo Tabacchi",
-            "lastModified": "2017-02-22T17:56:36Z",
+            "lastModified": "2017-05-01T20:30:20Z",
             "numero": "56",
             "stops": [
                 1576,
@@ -23675,16 +23667,12 @@
         {
             "direction": "Via Paris",
             "from": "Corso Galileo Ferraris",
-            "lastModified": "2017-03-16T22:42:34Z",
+            "lastModified": "2017-04-20T20:31:47Z",
             "numero": "60",
             "stops": [
-                3322,
-                2007,
-                2013,
-                31,
-                3416,
-                1611,
+                3545,
                 3463,
+                3675,
                 2680,
                 1947,
                 1765,
@@ -23711,7 +23699,7 @@
         {
             "direction": "Via Bertola",
             "from": "Venaria",
-            "lastModified": "2016-02-15T21:29:20Z",
+            "lastModified": "2017-04-09T03:23:36Z",
             "numero": "72",
             "stops": [
                 2444,
@@ -23742,7 +23730,7 @@
         {
             "direction": "Mirafiori Via Farinelli",
             "from": "Piazza Statuto",
-            "lastModified": "2017-03-16T22:42:38Z",
+            "lastModified": "2017-04-09T03:23:33Z",
             "numero": "71",
             "stops": [
                 2154,
@@ -23790,9 +23778,9 @@
             ]
         },
         {
-            "direction": "Corso Galileo Ferraris",
+            "direction": "Corso Inghilterra",
             "from": "Via Paris",
-            "lastModified": "2017-03-16T22:42:36Z",
+            "lastModified": "2017-04-20T20:31:48Z",
             "numero": "60",
             "stops": [
                 1736,
@@ -23815,18 +23803,18 @@
                 2170,
                 2719,
                 2613,
-                3405,
-                561,
-                33,
-                3322,
                 3652,
-                1555
+                3416,
+                1555,
+                3565,
+                3563,
+                3545
             ]
         },
         {
             "direction": "Piazza Statuto",
             "from": "Mirafiori Via Farinelli",
-            "lastModified": "2017-03-16T22:42:38Z",
+            "lastModified": "2017-04-09T03:23:33Z",
             "numero": "71",
             "stops": [
                 2123,
@@ -23874,7 +23862,7 @@
         {
             "direction": "Corso Cadore",
             "from": "Via Sandre (Venaria)",
-            "lastModified": "2017-03-21T10:16:05Z",
+            "lastModified": "2017-04-09T02:13:59Z",
             "numero": "77",
             "stops": [
                 406,
@@ -23945,7 +23933,7 @@
         {
             "direction": "Largo Tabacchi",
             "from": "Vallette",
-            "lastModified": "2016-11-12T20:59:08Z",
+            "lastModified": "2017-07-13T14:24:19Z",
             "numero": "75",
             "stops": [
                 2264,
@@ -24024,7 +24012,7 @@
         {
             "direction": "Vallette",
             "from": "Largo Tabacchi",
-            "lastModified": "2016-11-12T20:59:10Z",
+            "lastModified": "2017-04-14T09:24:42Z",
             "numero": "75",
             "stops": [
                 2290,
@@ -24179,7 +24167,7 @@
         {
             "direction": "Santena: Piazza Cosma e Damiano",
             "from": "Corso Maroncelli",
-            "lastModified": "2016-12-21T00:19:05Z",
+            "lastModified": "2017-05-17T18:55:21Z",
             "numero": "45",
             "stops": [
                 1182,
@@ -24189,7 +24177,7 @@
         {
             "direction": "Corso Maroncelli",
             "from": "Santena: Piazza Aimerino",
-            "lastModified": "2016-12-21T00:19:05Z",
+            "lastModified": "2017-05-17T18:55:22Z",
             "numero": "45",
             "stops": [
                 2496,
@@ -24551,7 +24539,7 @@
         {
             "direction": "Lein\u00ec: Piazza I Maggio",
             "from": "Porta Susa FS",
-            "lastModified": "2017-03-17T01:56:30Z",
+            "lastModified": "2017-04-09T02:13:58Z",
             "numero": "46",
             "stops": [
                 1218,
@@ -24834,7 +24822,7 @@
         {
             "direction": "Falchera",
             "from": "Borgaro Torinese",
-            "lastModified": "2017-03-18T13:13:01Z",
+            "lastModified": "2017-06-01T18:32:41Z",
             "numero": "46N",
             "stops": [
                 2767,
@@ -25095,7 +25083,7 @@
         {
             "direction": "Via Cafasso",
             "from": "Via Frejus",
-            "lastModified": "2017-02-12T15:53:13Z",
+            "lastModified": "2017-05-01T20:44:42Z",
             "numero": "68",
             "stops": [
                 2097,
@@ -25141,7 +25129,7 @@
         {
             "direction": "Via Artom",
             "from": "Fermi",
-            "lastModified": "2016-11-17T10:52:29Z",
+            "lastModified": "2017-07-25T15:05:32Z",
             "numero": "101",
             "stops": [
                 855,
@@ -25193,7 +25181,7 @@
         {
             "direction": "Fermi",
             "from": "Via Artom",
-            "lastModified": "2017-03-12T18:15:10Z",
+            "lastModified": "2017-07-25T15:05:31Z",
             "numero": "101",
             "stops": [
                 3448,
@@ -25309,7 +25297,7 @@
         {
             "direction": "Via Scialoja",
             "from": "Via Ada Negri (Moncalieri)",
-            "lastModified": "2017-03-17T01:56:32Z",
+            "lastModified": "2017-06-09T16:30:44Z",
             "numero": "67",
             "stops": [
                 2045,
@@ -25633,7 +25621,7 @@
         {
             "direction": "Via Gorini",
             "from": "Via Ventimiglia",
-            "lastModified": "2016-12-10T10:07:04Z",
+            "lastModified": "2017-03-25T17:38:28Z",
             "numero": "74",
             "stops": [
                 2128,
@@ -25676,7 +25664,7 @@
         {
             "direction": "Via Gorini",
             "from": "Via Ventimiglia",
-            "lastModified": "2016-12-10T10:07:05Z",
+            "lastModified": "2017-03-25T17:38:29Z",
             "numero": "74",
             "stops": [
                 2128,
@@ -25748,7 +25736,7 @@
         {
             "direction": "Corso Maroncelli",
             "from": "Corso Maroncelli",
-            "lastModified": "2015-04-14T13:10:52Z",
+            "lastModified": "2017-06-01T18:59:50Z",
             "numero": "84",
             "stops": [
                 1365,
@@ -26257,5 +26245,5 @@
             ]
         }
     ],
-    "queryDate": "2017-03-22T17:01:02Z"
+    "queryDate": "2017-08-10T05:15:02Z"
 }
